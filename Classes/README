@@ -1,0 +1,2 @@
+/*Classes go in this folder.
+Identical functions that are being used among several scripts should be made into a class so they can be joined.*/
